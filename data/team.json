@@ -1,0 +1,49 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Thabo Nkosi",
+      "role": "Frontend Developer",
+      "department": "Engineering",
+      "email": "thabo.nkosi@example.com",
+      "location": "Pretoria",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Amara Chen",
+      "role": "Backend Developer",
+      "department": "Engineering",
+      "email": "amara.chen@example.com",
+      "location": "Cape Town",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Lerato Molefe",
+      "role": "Product Manager",
+      "department": "Product",
+      "email": "lerato.molefe@example.com",
+      "location": "Johannesburg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "David Okafor",
+      "role": "QA Engineer",
+      "department": "Engineering",
+      "email": "david.okafor@example.com",
+      "location": "Durban",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Priya Naidoo",
+      "role": "UX Designer",
+      "department": "Design",
+      "email": "priya.naidoo@example.com",
+      "location": "Pretoria",
+      "active": true
+    }
+  ]
+}
