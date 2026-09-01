@@ -1,0 +1,32 @@
+# Dart/Flutter specific
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Compiled output
+*.exe
+*.dll
+*.so
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables (assignment requirement)
+.env
+.env.local
+
+# Logs (assignment requirement)
+*.log
+
+# Coverage
+coverage/
