@@ -1,3 +1,7 @@
+# Environment variables (assignment requirement)
+.env
+.env.local
+
 # Dart/Flutter specific
 .dart_tool/
 .packages
@@ -20,13 +24,6 @@ pubspec.lock
 # OS files
 .DS_Store
 Thumbs.db
-
-# Environment variables (assignment requirement)
-.env
-.env.local
-
-# Logs (assignment requirement)
-*.log
 
 # Coverage
 coverage/
