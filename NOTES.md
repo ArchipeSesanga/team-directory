@@ -123,3 +123,8 @@ e. `asdasd`: implementation minutiae, effectively meaningless. No real content t
 
 f. `Changed line 47 of notes.md`: implementation minutiae. Cites a line number, which is actively misleading since it becomes wrong the moment earlier lines shift. Describes where the change landed, not what changed or why.
 Rewrite: `Correct meeting time in project notes`
+
+
+
+
+Changes from Damian
