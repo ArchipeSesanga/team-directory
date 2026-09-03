@@ -128,3 +128,11 @@ Rewrite: `Correct meeting time in project notes`
 
 
 Changes from Damian
+
+
+
+## Assignment 1.2
+
+1. Fork is suitable when you do not have acces or permission to a certain repo, by doing so it allows you to have your own version and then you can send a pull request so that the owner of the original repo can review and decide either they approve or disapprove the merge request.
+ 
+so if one decides to to clone with no permission/access they won't be able to push to the original branch.
