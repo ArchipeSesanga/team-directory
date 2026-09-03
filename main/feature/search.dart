@@ -12,7 +12,8 @@ List<TeamMember> searchTeam(
 
     if (needle.isEmpty) return true;
 
-    return member.searchableFields
-        .any((field) => field.toLowerCase().contains(needle));
+    return member.searchableFields.any(
+      (field) => field.toLowerCase().contains(needle),
+    );
   }).toList();
 }

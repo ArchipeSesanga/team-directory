@@ -12,9 +12,11 @@ void main(List<String> args) {
   final query = args.join(' ');
   final results = searchTeam(members, query);
 
-  print(query.isEmpty
-      ? 'All ${results.length} team members:'
-      : 'Found ${results.length} match(es) for "$query":');
+  print(
+    query.isEmpty
+        ? 'All ${results.length} team members:'
+        : 'Found ${results.length} match(es) for "$query":',
+  );
 
   for (final member in results) {
     print('  - $member');
